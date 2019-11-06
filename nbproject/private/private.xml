@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/manzi/Documents/BK/NetBeansProjects/MTNNGUSSDAgent/src/java/atn/mtnng/ussdagent/entities/UssdRouteKey.java</file>
+            <file>file:/C:/Users/manzi/Documents/BK/NetBeansProjects/MTNNGUSSDAgent/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/manzi/Documents/BK/NetBeansProjects/MTNNGUSSDAgent/src/java/atn/mtnng/ussdagent/utilities/SoapXmlRequest2tBeans.java</file>
+            <file>file:/C:/Users/manzi/Documents/BK/NetBeansProjects/MTNNGUSSDAgent/src/java/atn/mtnng/ussdagent/entities/UssdRoute.java</file>
+            <file>file:/C:/Users/manzi/Documents/BK/NetBeansProjects/MTNNGUSSDAgent/src/java/atn/mtnng/ussdagent/entities/SdpSpProfile.java</file>
+            <file>file:/C:/Users/manzi/Documents/BK/NetBeansProjects/MTNNGUSSDAgent/web/WEB-INF/log4j2.xml</file>
+            <file>file:/C:/Users/manzi/Documents/BK/NetBeansProjects/MTNNGUSSDAgent/src/java/atn/mtnng/ussdagent/models/UssdResponse.java</file>
+            <file>file:/C:/Users/manzi/Documents/BK/NetBeansProjects/MTNNGUSSDAgent/src/java/atn/mtnng/ussdagent/bizlogic/SdpRequestManager.java</file>
+            <file>file:/C:/Users/manzi/Documents/BK/NetBeansProjects/MTNNGUSSDAgent/src/java/atn/mtnng/ussdagent/services/UssdNotificationsHandler.java</file>
+            <file>file:/C:/Users/manzi/Documents/BK/NetBeansProjects/MTNNGUSSDAgent/src/java/atn/mtnng/ussdagent/services/ApplicationConfig.java</file>
+        </group>
+    </open-files>
+</project-private>
